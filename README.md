@@ -1,10 +1,10 @@
 # Dynamic-ecomm-website-using-java-servlets
 
-Project Description
-This is a dynamic e-commerce website where users can browse products, add items to their cart, place orders, and manage their accounts. Administrators can add, update, or remove products. The website is built using Java Servlets and JSP, and the development environment is Eclipse IDE.
+Project Description:
+          This is a dynamic e-commerce website where users can browse products, add items to their cart, place orders, and manage their accounts. Administrators can add, update, or remove products. The website is built using Java Servlets and JSP, and the development environment is Eclipse IDE.
 
 Features
-- User Features:
+User Features:
 - Browse products
 - Sort for products
 - View product details
